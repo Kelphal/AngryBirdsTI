@@ -1,4 +1,4 @@
-Hello, as you can see once you tested it - it is unfinished and looks like sh**. But - I have an assistant just recently and we might be able to pull off a full port!
+Hello, as you can see once you tested it - it is unfinished, But - I have an assistant just recently and we might be able to pull off a full port!
 
 Credit:
 Kelphal,
