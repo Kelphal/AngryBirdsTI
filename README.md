@@ -2,12 +2,12 @@ Hello, as you can see once you tested it - it is unfinished, But - I have an ass
 
 Credit:
 Kelphal,
-XSamurai
+XSamurai.
 
 Inspiration:
-StephenM
-TheLastMillenial
-adriweb
+StephenM,
+TheLastMillenial,
+adriweb.
 
 https://cemetech.net/users/Kelphal
 https://cemetech.net/users/XSamurai
