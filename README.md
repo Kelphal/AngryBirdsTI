@@ -4,4 +4,9 @@ Credit:
 Kelphal,
 XSamurai
 
+https://cemetech.net/users/Kelphal
+https://cemetech.net/users/XSamurai
+
+https://www.youtube.com/@Kelphal-TheOriginal
+
 If you would like to help - please respond in the issues page because I currently do not have a business email.
