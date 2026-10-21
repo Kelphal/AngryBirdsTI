@@ -4,6 +4,11 @@ Credit:
 Kelphal,
 XSamurai
 
+Inspiration:
+StephenM
+TheLastMillenial
+adriweb
+
 https://cemetech.net/users/Kelphal
 https://cemetech.net/users/XSamurai
 
